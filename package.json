@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-Dev4L1fe/",
+    "build": "vite build --base=/js_119_pattaroni/",
     "preview": "vite preview"
   },
   "devDependencies": {
